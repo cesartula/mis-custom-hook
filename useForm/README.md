@@ -1,7 +1,7 @@
 # useForm 
 
 Ejemplo: 
-...
+
 
     const initialForm = {
         name: '',
@@ -11,4 +11,3 @@ Ejemplo:
 
    const [ formValues, handleInputChange, reset ] = useForm( initialForm );  
 
-...    
